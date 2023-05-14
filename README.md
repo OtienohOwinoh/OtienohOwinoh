@@ -1,4 +1,4 @@
-# OtienohOwinoh
+# Hello, My Name is Collince Owinoh
 
 # 💫 About Me:
 I am a junior front-end web designer based in Nairobi, Kenya. I'm learning how to code. I love making and designing webpages with HTML and CSS and JavaScript. It's exciting to code something anyone on the web can interact with. I also enjoy digital marketing and graphic design because they challenge my inner creativity. My satisfaction comes when I can provide solutions to a problem.<br><br>For my programming projects, I usually For markdown files, I make commits much more often. Feel free to create a pull request to contribute to my repositories.<br><br>🌱 I’m currently learning HTML, CSS, Javascript and React.<br>🔭 I’m currently working on creating web pages and learning programming.<br>😀 I like to code, read, hike and do graphic design.<br>💬 Ask me about digital marketing.<br>⚡ Fun fact:  I am an adrenaline junkie"
